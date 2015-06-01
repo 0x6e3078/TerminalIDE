@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zipio-lib-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/zipio-lib-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
